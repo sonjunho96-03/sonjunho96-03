@@ -15,7 +15,7 @@
 
 ## 📌 Project
 
-### 🎬 Movie Poster Quiz
+### [🎬 Movie Poster Quiz](https://github.com/ruruo1385/mini_proj_one)
 
 영화 포스터의 일부분을 보고 제목을 맞히는 PySide6 기반 객관식 퀴즈 게임입니다.
 
