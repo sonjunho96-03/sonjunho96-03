@@ -11,7 +11,7 @@
 
 ## 🛠 Tech Stack
 
-`Python` `PySide6` `OpenCV` `YOLO` `Git`
+`C` `Python` `PySide6` `OpenCV` `YOLO` `Git`
 
 ## 📌 Project
 
