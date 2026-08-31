@@ -17,7 +17,7 @@
 
 ## 📌 Project
 
-### ⚙️ Bluetooth 기반 회전체 상태 모니터링 시스템(https://github.com/wooseokkim1992-byte/firmware_project)
+### [⚙️ Bluetooth 기반 회전체 상태 모니터링 시스템](https://github.com/wooseokkim1992-byte/firmware_project)
 
 STM32 2-Node 구조를 기반으로 회전체의 진동과 소음을 측정하고,
 이상 상태를 판정하여 원격 관제 및 안전 정지를 수행하는 임베디드 시스템입니다.
